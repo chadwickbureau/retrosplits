@@ -14,7 +14,7 @@ There are two main groupings of files:
   play-by-play coverage.
 
 The underlying data is obtained free of charged from and is copyrighted
-by Retrosheet.  Insterested parties may contact Retrosheet at
+by Retrosheet.  Interested parties may contact Retrosheet at
 www.retrosheet.org.
 
 This dataset is made available under the Open Database License:
