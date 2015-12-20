@@ -2,8 +2,7 @@
 
 This dataset contains historical playing data from Major League Baseball (tm),
 disaggregated at various levels.  These are based on the files
-produced by Retrosheet.  This version of the dataset is based on the
-June 2015 Retrosheet release.
+produced by Retrosheet. 
 
 There are two main groupings of files:
 * daybyday: Game-by-game records for players and teams, for all seasons
