@@ -12,7 +12,7 @@ There are two main groupings of files:
   This covers 1974 through present, for which Retrosheet has full
   play-by-play coverage.
 
-The underlying data is obtained free of charged from and is copyrighted
+The underlying data is obtained free of charge from and is copyrighted
 by Retrosheet.  Interested parties may contact Retrosheet at
 www.retrosheet.org.
 
