@@ -40,7 +40,7 @@ are not included in boxscore files, but in most cases can be computed
 accurately from event files.  Users will need to choose which
 source(s) to use for their own work.
 
-The underlying data is obtained free of charged from and is copyrighted
+The underlying data is obtained free of charge from and is copyrighted
 by Retrosheet.  Interested parties may contact Retrosheet at
 www.retrosheet.org.
 
