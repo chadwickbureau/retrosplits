@@ -9,7 +9,7 @@ There are two main groupings of files:
   available from Retrosheet.
 * splits: Various batting and pitching splits generated from event-level
   data, that is, which cannot be computed from the game-by-game records.
-  This covers 1974 through present, for which Retrosheet has full
+  This covers 1969 through present, for which Retrosheet has full
   play-by-play coverage.
 
 The daybyday files include records from Retrosheet event files,
